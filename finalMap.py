@@ -6,7 +6,7 @@ Created on Sat Apr 23 16:28:11 2016
 
      Changes: 
          + Displayed Data
-         + shapefile instead of the fiona module
+         + PyShp instead of the fiona module
          
 """
 
@@ -33,8 +33,8 @@ from help import cmap_discretize
 
 
 
-filename1='AXAdata1.csv'
-filename2='AXAdata2.csv'
+filename1='data1.csv' # fire data from https://datahub.io/dataset/london-fire-brigade-incident-records/resource/7cd05a70-1e84-433b-847e-4e13a7f12610 
+filename2='data2.csv'
 
 fla=pd.read_csv(filename1)
 flb=pd.read_csv(filename2)
