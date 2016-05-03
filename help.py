@@ -2,7 +2,8 @@
 """
 Created on Wed Apr 27 23:29:38 2016
 
-@author: Minas
+@author:  http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html#.Vxu68jArLIU
+
 """
 
 
